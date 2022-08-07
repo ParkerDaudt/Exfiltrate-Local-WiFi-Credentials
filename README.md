@@ -7,7 +7,7 @@ Before Running This Python Script, Install The Required Modules:
 pip install -r requirements.txt
 ```
 
-#How To Use:
+# How To Use:
 To us this script, execute the following:
 ```
 python wifi-exfil.py
