@@ -12,3 +12,8 @@ To Use This Script, Run the Following:
 ```
 python wifi-exfil.py
 ```
+
+# What To Expect:
+To View the Results, Visit the Specified Webhook
+```
+Example: https://webhook.site/##########
