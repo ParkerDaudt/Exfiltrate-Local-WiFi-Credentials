@@ -2,13 +2,13 @@
 Exfiltration of local Windows W-Fi Credentials to a Remote URL
 
 # Installation Instructions
-Before Running This Python Script, Install The Required Modules:
+Before Running This Python Script, Install the Required Modules:
 ```
 pip install -r requirements.txt
 ```
 
 # How To Use:
-To us this script, execute the following:
+To Use This Script, Run the Following:
 ```
 python wifi-exfil.py
 ```
